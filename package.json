@@ -1,23 +1,19 @@
 {
     "name": "flashgordon",
+    "description": "",
     "version": "1.0.0",
-    "description": "Add mouse to wix",
-    "main": "index.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/moodnovciv/flashgordon.git"
+      "url": "https://github.com/moodnovciv/flashgordon.git"
     },
+    "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
       "url": "https://github.com/moodnovciv/flashgordon/issues"
     },
-    "homepage": "https://github.com/moodnovciv/flashgordon#readme"
+    "homepage": "https://github.com/moodnovciv/flashgordon"
   }
-  
