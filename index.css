@@ -3,10 +3,19 @@
   * Forged by Luis Daniel Rovira
   * Released under the MIT License.
   */
-
   * {
     cursor: none;
   }
+  li:hover {
+    cursor: none;
+  }
+  .hand:hover {
+    cursor: none;
+ }
+ 
+ .nohand:hover {
+    cursor: default;
+ }
   .notCursor {
     cursor: none;
   }
